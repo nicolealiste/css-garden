@@ -1,11 +1,10 @@
-#CSS GARDEN
-***o___
+# CSS GARDEN
 
-###El reto:
+### El reto:
 
 Darle estilos libres de CSS, a un HTML tipo, basado en los conocimientos hasta ahora adquiridos.
 
-###Metodologia de trabajo:
+### Metodologia de trabajo:
 - Se entregó una plantilla HTML ya establecida, no se realiza cambios en el HTML.
 - Sólo se realiza cambios en el archivo main.css
 
