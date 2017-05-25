@@ -4,9 +4,9 @@ html, body {
   margin: 0;
 }
 body {
-  background: #f7f9f8;
+  background: #e5e1c9;
   font-family: 'Josefin Sans', sans-serif;
-  color: #223d30;
+  color: #28271f;
   font-size: 88%;
 }
 header {
@@ -16,10 +16,42 @@ header {
   background-position: 20%; 
   text-align: center;
 }
+h1, h2 {
+  margin: 5;
+  color: #38341f;
+  font-weight: normal;
+}
+h1 {
+  padding-top: 0;
+  padding-bottom: 1.5px;
+  font-size: 3em;
+}
+h2 {
+  padding-top: 1px;
+  padding-bottom: 30px;
+  color: #705627;
+  font-size: 1.8em;
+  font-style: italic;
+}
 a {
-  color: #258e5b;
+  color: #a56e08;
 }
  a:hover, a:focus {
-    color: #0dbc68;
+    color: #ffa807;
     text-decoration: underline;
-  }
+}
+h3 {
+  font-size: 1.5em;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+p {
+  margin: 0.50em 0;
+  line-height: 2;
+}
+.summary, .preamble {
+  width: 65%;
+  margin: 0 auto;
+}
+  
+
